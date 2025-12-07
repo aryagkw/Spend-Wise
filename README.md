@@ -86,5 +86,4 @@ Spendwise is a modern, full-stack personal finance application designed to help 
 ## 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a Pull Request.
 
-## 📄 License
-This project is licensed under the MIT License.
+
